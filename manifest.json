@@ -1,0 +1,16 @@
+{
+  "name": "Plan de Evacuación - Universidad Latina, Sede David",
+  "short_name": "Evacuación UL",
+  "description": "Rutas de evacuación interactivas de la Universidad Latina, Sede David",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#1b5fa8",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
